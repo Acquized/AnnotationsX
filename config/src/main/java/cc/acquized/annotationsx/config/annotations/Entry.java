@@ -17,7 +17,7 @@ import java.lang.annotation.Target;
  * @author Acquized
  * @since Annotations 1.0
  */
-@Target({ElementType.TYPE})
+@Target({ElementType.FIELD})
 @Retention(RetentionPolicy.RUNTIME)
 public @interface Entry {
 
