@@ -37,6 +37,7 @@ import java.util.Set;
 /**
  * Automatic Processor which automaticly generates plugin.yml on Build
  * Look at the Wiki for Instructions on how to initalize this in your IDE or Build Tool
+ * @author Acquized / Akkarin
  */
 @SupportedSourceVersion(SourceVersion.RELEASE_7)
 @SupportedAnnotationTypes({

@@ -1,4 +1,5 @@
 # AnnotationsX
+[![Travis](https://img.shields.io/travis/Acquized/AnnotationsX.svg?maxAge=2592000?style=flat-square)](https://travis-ci.org/Acquized/AnnotationsX) [![Release](https://img.shields.io/github/release/Acquized/AnnotationsX.svg?maxAge=2592000?style=flat-square)](https://www.spigotmc.org/resources/annotationsx.23650/) [![Downloads](https://img.shields.io/github/downloads/Acquized/Annotations/total.svg?maxAge=2592000?style=flat-square)](https://github.com/Acquized/AnnotationsX/releases)  
 AnnotationsX is the second generation of Annotations providing support for annotated Fields editable at Runtime.  
   
 ### Information
@@ -11,6 +12,9 @@ Please visit [the Wiki](https://github.com/Acquized/AnnotationsX/wiki) for Infor
   
 ### Binaries
 Precompiled binaries are avaible for the end user at our [Spigot Page](https://www.spigotmc.org/resources/api-annotations.23650/).  
+  
+### Continous Integration
+AnnotationsX uses [Travis CI](https://travis-ci.org/) for Continous Integration. You can visit the Project [here](https://travis-ci.org/Acquized/AnnotationsX).  
   
 ### Maven
 ```xml
