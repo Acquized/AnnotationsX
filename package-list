@@ -1,0 +1,15 @@
+cc.acquized.annotationsx
+cc.acquized.annotationsx.api
+cc.acquized.annotationsx.command
+cc.acquized.annotationsx.command.annotations
+cc.acquized.annotationsx.command.extension
+cc.acquized.annotationsx.config
+cc.acquized.annotationsx.config.annotations
+cc.acquized.annotationsx.config.extension
+cc.acquized.annotationsx.pluginyaml
+cc.acquized.annotationsx.pluginyaml.annotations
+cc.acquized.annotationsx.pluginyaml.annotations.dependencies
+cc.acquized.annotationsx.pluginyaml.extension
+cc.acquized.annotationsx.reflections
+cc.acquized.annotationsx.reflections.annotations
+cc.acquized.annotationsx.reflections.extension
