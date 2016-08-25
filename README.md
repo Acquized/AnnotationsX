@@ -1,5 +1,5 @@
 # AnnotationsX
-[![Travis](https://img.shields.io/travis/Acquized/AnnotationsX.svg?maxAge=2592000?style=flat-square)](https://travis-ci.org/Acquized/AnnotationsX) [![Release](https://img.shields.io/github/release/Acquized/AnnotationsX.svg?maxAge=2592000?style=flat-square)](https://www.spigotmc.org/resources/annotationsx.23650/) [![Downloads](https://img.shields.io/github/downloads/Acquized/Annotations/total.svg?maxAge=2592000?style=flat-square)](https://github.com/Acquized/AnnotationsX/releases)  
+[![Travis](https://img.shields.io/travis/Acquized/AnnotationsX/build.svg?maxAge=2592000&style=flat-square)](https://travis-ci.org/Acquized/AnnotationsX) [![Release](https://img.shields.io/github/release/Acquized/AnnotationsX.svg?maxAge=2592000&style=flat-square)](https://www.spigotmc.org/resources/annotationsx.23650/) [![Downloads](https://img.shields.io/github/downloads/Acquized/Annotations/total.svg?maxAge=2592000&style=flat-square)](https://github.com/Acquized/AnnotationsX/releases)  
 AnnotationsX is the second generation of Annotations providing support for annotated Fields editable at Runtime.  
   
 ### Information
