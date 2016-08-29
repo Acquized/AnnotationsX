@@ -11,7 +11,6 @@ import cc.acquized.annotationsx.reflections.extension.ReflectionService;
 import lombok.Getter;
 import org.apache.commons.lang.Validate;
 import org.bukkit.Bukkit;
-import org.bukkit.craftbukkit.v1_10_R1.entity.CraftPlayer;
 import org.bukkit.entity.Player;
 
 import java.lang.reflect.Field;
