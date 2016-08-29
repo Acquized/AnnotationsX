@@ -15,6 +15,7 @@ Precompiled binaries are avaible for the end user at our [Spigot Page](https://w
   
 ### Continous Integration
 AnnotationsX uses [Travis CI](https://travis-ci.org/) for Continous Integration. You can visit the Project [here](https://travis-ci.org/Acquized/AnnotationsX).  
+**Please note:** TravisCI fails building on the master Branch because of Maven Dependencies. The `build` Branch will always success.  
   
 ### Maven
 ```xml
